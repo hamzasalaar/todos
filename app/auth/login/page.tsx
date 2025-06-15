@@ -90,7 +90,7 @@ export default function LoginPage() {
         </Button>
       </div>
       <p className="text-center text-sm mt-4">
-        Haven't Registered?{" "}
+        Haven&apos;t Registered?{" "}
         <a href="/auth/signup" className="text-blue-600 underline">
           Register
         </a>
